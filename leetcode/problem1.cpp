@@ -1,5 +1,6 @@
-#include <iostream>
+//target to get 9 as output.by twosum DSA
 
+#include <iostream>
 using namespace std;
 
 int* twoSum(int numbers[], int size, int target) {
